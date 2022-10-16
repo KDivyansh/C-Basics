@@ -1,2 +1,2 @@
 # C-Basics
-C-programs 
+Here are some C programs that I coded while I was in Sem-I of my college.
